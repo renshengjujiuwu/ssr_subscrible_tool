@@ -3,7 +3,7 @@
 
 Good luck, guys!
 
-# SSR节点列表生成器
+# SSR节点列表订阅生成器
 > 适配ios版shadowrocket，PC或Mac版小飞机,
 
 ## 说明
