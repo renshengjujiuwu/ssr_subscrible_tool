@@ -7,4 +7,7 @@
 ssr://Y24yLmZsdXNoaW5neC5jb206MTQ4NzpvcmlnaW46cmM0LW1kNTpwbGFpbjpOell4TVRnMk5qRTROQS8_cmVtYXJrcz02YWFaNXJpdmZEbmxqN0RtbkkzbGlxSGxtYWpvdEpfb3ZiMTg2SXFDNTRLNTU1U3g1YnlnNVppSjZMR3E1by1RNUw2YiZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 
 #
-ss://YWVzLTEyOC1nY206ODliZGE2OGViYTM2@k1.flythere.xyz:41321/?plugin=obfs-local;obfs=http;obfs-host=67797e7666622f33737777.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CA%7C9%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E5%8E%9F%E7%94%9F%7C%E7%A6%81YouTube
+ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k1.flythere.xyz:41321?plugin=obfs-local;obfs=http;obfs-host=67797e7666622532737777.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CA%7C7%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E5%8E%9F%E7%94%9F%7C%E7%A6%81YouTube
+
+#
+ss://YWVzLTEyOC1nY206NGVkM2NkZTJjYmZh@k1.flythere.xyz:41321?plugin=obfs-local;obfs=http;obfs-host=67797e7666622532737477.office.com;obfs-uri=/#%E9%A6%99%E6%B8%AF%7CA%7C5%E5%8F%B0%E8%B4%9F%E8%BD%BD%7C%E7%A6%81YouTube
