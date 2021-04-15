@@ -3,16 +3,6 @@
 # 思科系统(中国)网络技术有限公司合作商
 # 京ICP备05085544号-1
 
-# .
-# 中華電信
-* 1
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6M2IzYWU5MTQtMmRjMi0zZjA0LWFmMTEtYzQ0OTIxNGRiMTcyQHR3MDAxcGx6Lm15aWRjZGRucy5jb206MjgwODE?remarks=%E5%8F%B0%E7%81%A3%20%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%20-%201&obfsParam=www.bing.com&path=/api&obfs=websocket
-
-* 2
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6M2IzYWU5MTQtMmRjMi0zZjA0LWFmMTEtYzQ0OTIxNGRiMTcyQHR3MDAycGx6Lm15aWRjZGRucy5jb206MjgwODE?remarks=%E5%8F%B0%E7%81%A3%20%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%20-%202&obfsParam=www.bing.com&path=/api&obfs=websocket
-
-* 3
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6M2IzYWU5MTQtMmRjMi0zZjA0LWFmMTEtYzQ0OTIxNGRiMTcyQHR3MDAycGx6Lm15aWRjZGRucy5jb206MjgwODE?remarks=%E5%8F%B0%E7%81%A3%20%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%20-%202&obfsParam=www.bing.com&path=/api&obfs=websocket
-
-* 4
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6M2IzYWU5MTQtMmRjMi0zZjA0LWFmMTEtYzQ0OTIxNGRiMTcyQHR3MDA0cGx6Lm15aWRjZGRucy5jb206MjgwODE?remarks=%E5%8F%B0%E7%81%A3%20%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%20-%204&obfsParam=www.bing.com&path=/api&obfs=websocket
+# .普通套餐
+* FDC HK
+ssr://Y20tMS5zc3BsaW5rcy5wdzo3MDAxOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0ZjpwbGFpbjpJUS8_cmVtYXJrcz02YWFaNXJpdlJrUkRVMlZ5ZG1WeSZwcm90b3BhcmFtPU1qRXpOVEk2TW5odmNWZHQmb2Jmc3BhcmFtPU5HVXhOVEV5TVRNMU1pNXRhV055YjNOdlpuUXVZMjl0
