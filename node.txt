@@ -4,5 +4,7 @@
 # 京ICP备05085544号-1
 
 # .普通套餐
-# end.
-ssr://MC4wLjAuMDo4ODAwOmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpNQS8_b2Jmc3BhcmFtPU1BJnByb3RvcGFyYW09TUEmcmVtYXJrcz01cHlONVlxaDViZXk1WUdjNXEyaSZncm91cD0
+# 非自建
+* Amazon HK
+vmess://YXV0bzpkMmUzN2VhYi05ZWEyLTM5OTMtYjE4NC03OWY4YzRjYjM0YWZAZGwuY255ZC5haXJub2RlLnh5ejozMzAwOA?remarks=Amazon%20HK&obfsParam=18.167.94.61&path=/dog&obfs=websocket&alterId=1
+
